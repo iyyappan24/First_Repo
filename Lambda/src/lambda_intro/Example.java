@@ -8,6 +8,14 @@ interface Fruit{
 
 public class Example {
 
+	
+	public static void get(Fruit fg){
+		
+		fg.show();
+	}
+	
+	
+	
 	public static void main(String[] args){
 		
 		
@@ -19,7 +27,11 @@ public class Example {
 		          //  we can pass the function body itself
 		
 		
-                f.show();
+         Example.get(f);
+                
+                
+                
+                
 		
 		
 		
