@@ -19,6 +19,8 @@ public class Example {
 		          //  we can pass the function body itself
 		
 		f.show();
+
+                f.show();
 		
 		
 		
