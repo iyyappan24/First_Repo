@@ -18,7 +18,7 @@ public class Example {
 		          // normally we can call functions and we will pass values but with the help of lambda expression
 		          //  we can pass the function body itself
 		
-		
+		f.show();
 		
 		
 		
